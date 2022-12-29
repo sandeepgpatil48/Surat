@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringbootApacheKafkaApplication {
-
+        public String Name="Sandeep patil";
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootApacheKafkaApplication.class, args);
 	}
